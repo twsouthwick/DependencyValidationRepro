@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="f358621a-e492-431a-8733-d5279e62483f" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="b9a4704d-fa28-472f-add6-fe2fe1d16c57" name="ClassLibrary1">
+      <references>
+        <reference Id="a38c1cb2-2a6c-48be-a1a6-9a72a01e29a9" name="ClassLibrary1">
+          <ArtifactNode Label="ClassLibrary1" Category="CodeSchema_Namespace" Id="(Namespace=ClassLibrary1)" />
+          <ExpandedNode Id="(Namespace=ClassLibrary1)" Label="ClassLibrary1" Category="CodeSchema_Namespace">
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="e45187c7-4f27-4d4b-817e-aeb5122ff796" name="Other">
+      <references>
+        <reference Id="ad905c5c-dd5e-43ed-acbb-9b548d40e179" name="Other">
+          <ArtifactNode Label="Other" Category="CodeSchema_Namespace" Id="(Namespace=Other)" />
+          <ExpandedNode Id="(Namespace=Other)" Label="Other" Category="CodeSchema_Namespace">
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+  </layers>
+</layerModel>
